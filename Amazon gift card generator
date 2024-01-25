@@ -56,4 +56,3 @@ while True:
     if broke == 50:
         print(f"{Fore.YELLOW}GCL broke, resetting...")
         wait()
-######################################################
